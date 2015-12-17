@@ -1,0 +1,4 @@
+(int,real,str)->[[[str]]]
+[[[[[()->str]]]]]
+([int],[str])->int
+((int,real,str)->[[[str]]], [[[[[()->str]]]]], ([int],[str])->int) -> str

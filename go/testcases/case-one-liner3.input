@@ -1,0 +1,23 @@
+int & `a
+real & `b
+str & `c
+[int] & `e
+[real] & `g
+[str] & `h
+[[int]] & `i
+[[real]] & `k
+[[str]] & `l
+[[[[[int]]]]] & `m
+[[[[[real]]]]] & `o
+[[[[[str]]]]] & `p
+()->int & `q
+()->real & `s
+()->str & `t
+(int)->int & `u
+(real)->real & `w
+(str)->str & `x
+(int,int)->int & `y
+(real,real)->real & `aa
+(str,str)->str & `ab
+(int,real,str)->str & `af
+QUIT

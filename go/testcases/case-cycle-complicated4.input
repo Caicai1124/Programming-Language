@@ -1,0 +1,6 @@
+`a & `c
+`c & `d
+`d & (int, `b)-> `e
+`e & (int, int)-> `f
+`b & (int, `e ) -> `g
+QUIT

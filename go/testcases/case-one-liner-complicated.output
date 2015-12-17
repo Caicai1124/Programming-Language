@@ -1,0 +1,1 @@
+([[[str]]], (int, str, real)->[[[int]]], (()->int, ()->real, ()->str)->[int])->[[`d]]

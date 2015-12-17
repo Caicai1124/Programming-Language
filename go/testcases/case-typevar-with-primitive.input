@@ -1,0 +1,7 @@
+`a & int
+`b & str
+`c & real
+int & `u
+str & `v
+real & `w
+QUIT

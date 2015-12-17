@@ -1,0 +1,4 @@
+int &   int
+real & real
+str & str
+QUIT

@@ -1,0 +1,5 @@
+`a & (int,real,str)->[[[str]]]
+`b & [[[[[()->str]]]]]
+([int],[str])->int & `c
+(`a, `b, `c) -> str & (`d, `e, `f)->`zz
+QUIT

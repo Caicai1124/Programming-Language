@@ -1,0 +1,23 @@
+`a & int
+`b & str
+`c & real
+`aa & [int]
+`ba & [str]
+`ca & [real]
+`aa2 & [[int]]
+`ba2 & [[str]]
+`ca2 & [[real]]
+`aa5 & [[[[[int]]]]]
+`ba5 & [[[[[str]]]]]
+`ca5 & [[[[[real]]]]]
+`af0 & ()->int
+`bf0 & ()->str
+`cf0 & ()->real
+`af1 & (int)->int
+`bf1 & (str)->str
+`cf1 & (real)->real
+`af2 & (int,int)->int
+`bf2 & (str,str)->str
+`cf2 & (real,real)->real
+`af4 & (int,str,real,str)->int
+QUIT

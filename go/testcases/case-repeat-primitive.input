@@ -1,0 +1,13 @@
+`a & int
+`a & int
+`b & real
+`b & real
+`d & str
+`d & str
+int & `a
+int & `a
+real & `b
+real & `b
+str & `d
+str & `d
+QUIT
